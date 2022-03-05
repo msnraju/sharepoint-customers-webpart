@@ -1,0 +1,27 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "customers-webpart",
+    "id": "ff91b46e-3292-4100-9b77-c38d91fc6ed2",
+    "version": "1.0.0.14",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": false,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.13.1"
+    },
+    "webApiPermissionRequests": [
+      {
+        "resource": "Dynamics 365 Business Central",
+        "scope": "Financials.ReadWrite.All"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/customers-webpart.sppkg"
+  }
+}
