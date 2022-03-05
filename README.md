@@ -2,7 +2,7 @@
 
 ## Summary
 
-This is a code repository for a tpoic on [Consume Business Central APIs in SharePoint web part]() 
+This is a code repository for a tpoic on [Consume Business Central APIs in SharePoint web part](https://www.msnjournals.com/post/consume-business-central-apis-in-sharepoint-web-part) 
 
 ## Used SharePoint Framework Version
 
